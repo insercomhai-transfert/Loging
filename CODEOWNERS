@@ -3,4 +3,3 @@
 # see https://help.github.com/en/articles/about-code-owners
 # leave this at the bottom!
 # EVERYTHING ending with resjson* is for loc, and is owned by the workbooks team and the loc team
-*.resjson* @microsoft/applicationinsights-devtools @microsoft/csigs
